@@ -1,4 +1,4 @@
-module github.com/Hongssd/myokxapi
+module github.com/ched666/myokxapi
 
 go 1.19
 
